@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Hi there, I'm [Naqeeb Ullah][website] Laravel Developer 👋
+### I'm [Naqeeb Ullah][website] Laravel Developer 👋
 
 <br />
 
