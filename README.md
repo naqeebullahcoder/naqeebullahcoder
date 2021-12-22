@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-
-### I'm [Naqeeb Ullah][website] Laravel Developer 👋
-
 <br />
 
-## I'm a Laravel Developer
+## I am Naqeeb Ullah Laravel Developer
 
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to contribute to Open Source Projects
