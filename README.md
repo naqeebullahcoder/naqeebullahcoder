@@ -25,7 +25,4 @@
 
 ---
 
-[website]: https://www.facebook.com/
-[twitter]: https://twitter.com/imuhammadessa
-[instagram]: https://www.insatagram.com/imuhammadessa/
-[linkedin]: https://www.linkedin.com/in/imuhammadessa/
+
