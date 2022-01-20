@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<br />
-
-## I am Naqeeb Ullah Laravel Developer
+## I am Naqeeb Ullah, Laravel Developer
 
 - 🌱 I’m currently Working on Laravel. 
 - 🌱 I’m actively learning Laravel and Vue. 
