@@ -5,7 +5,7 @@
 - 🌱 I’m currently Working on Laravel. 
 - 🌱 I’m actively learning Laravel and Vue Js. 
 - 👯 I’m looking to contribute to Open Source Projects
-- 🥅 2022 Goals: Full Stack Laravel Developer
+- 🥅 2023 Goals: Full Stack Laravel Developer | Javascript | Vue.Js | React.JS | Node.jS
 - ⚡ Interest: I Love to CODE and Play Cricket
 
 
